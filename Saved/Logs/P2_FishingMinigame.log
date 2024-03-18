@@ -4687,3 +4687,14 @@ Minimum required: 527.27
 [2024.03.18-15.50.40:341][952]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2024.03.18-15.50.40:345][952]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2024.03.18-15.50.40:349][952]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.18-15.50.45:383][952]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-15.50.55:594][952]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.18-15.51.03:789][952]LogExit: Editor shut down
+[2024.03.18-15.51.04:282][952]LogExit: Transaction tracking system shut down
